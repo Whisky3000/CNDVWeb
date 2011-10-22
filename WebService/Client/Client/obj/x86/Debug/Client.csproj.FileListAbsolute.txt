@@ -1,0 +1,30 @@
+C:\Users\Big-Mountain\Desktop\WebService\Client_UsingG1P\Client_UsingG1P\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Big-Mountain\Desktop\WebService\Client_UsingG1P\Client_UsingG1P\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Big-Mountain\Desktop\WebService\Client_UsingG1P\Client_UsingG1P\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Big-Mountain\Desktop\WebService\Client_UsingG1P\Client_UsingG1P\obj\x86\Debug\Client.frmMain.resources
+C:\Users\Big-Mountain\Desktop\WebService\Client_UsingG1P\Client_UsingG1P\bin\Debug\Client.exe.config
+C:\Users\Big-Mountain\Desktop\WebService\Client_UsingG1P\Client_UsingG1P\bin\Debug\Client.exe
+C:\Users\Big-Mountain\Desktop\WebService\Client_UsingG1P\Client_UsingG1P\bin\Debug\Client.pdb
+C:\Users\Big-Mountain\Desktop\WebService\Client_UsingG1P\Client_UsingG1P\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Big-Mountain\Desktop\WebService\Client_UsingG1P\Client_UsingG1P\obj\x86\Debug\Client.exe
+C:\Users\Big-Mountain\Desktop\WebService\Client_UsingG1P\Client_UsingG1P\obj\x86\Debug\Client.pdb
+C:\Users\Big-Mountain\Desktop\WebService\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Big-Mountain\Desktop\WebService\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\Big-Mountain\Desktop\WebService\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\Big-Mountain\Desktop\WebService\Client\Client\bin\Debug\Client.exe
+C:\Users\Big-Mountain\Desktop\WebService\Client\Client\bin\Debug\Client.pdb
+C:\Users\Big-Mountain\Desktop\WebService\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Big-Mountain\Desktop\WebService\Client\Client\obj\x86\Debug\Client.frmMain.resources
+C:\Users\Big-Mountain\Desktop\WebService\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Big-Mountain\Desktop\WebService\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Big-Mountain\Desktop\WebService\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Windy\Desktop\New folder\WebService\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\Windy\Desktop\New folder\WebService\Client\Client\bin\Debug\Client.exe
+C:\Users\Windy\Desktop\New folder\WebService\Client\Client\bin\Debug\Client.pdb
+C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\Client.frmMain.resources
+C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog

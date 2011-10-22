@@ -1,0 +1,35 @@
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\obj\x86\Debug\Group1Project.exe
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\obj\x86\Debug\Group1Project.pdb
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\bin\Debug\Group1Project.exe.config
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\bin\Debug\Group1Project.exe
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\bin\Debug\Group1Project.pdb
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\obj\x86\Debug\Host.frmMain.resources
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\obj\x86\Debug\Host.uscListServiceContract.resources
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\obj\x86\Debug\Host.Properties.Resources.resources
+C:\Users\Big-Mountain\Desktop\WebService\Service\Group1Project\obj\x86\Debug\Host.uscServiceContractItem.resources
+C:\Users\Big-Mountain\Desktop\WebService\Service\Project\bin\Debug\Group1Project.exe.config
+C:\Users\Big-Mountain\Desktop\WebService\Service\Project\obj\x86\Debug\Group1Project.exe
+C:\Users\Big-Mountain\Desktop\WebService\Service\Project\obj\x86\Debug\Group1Project.pdb
+C:\Users\Big-Mountain\Desktop\WebService\Service\Host\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Big-Mountain\Desktop\WebService\Service\Host\obj\x86\Debug\Host.frmMain.resources
+C:\Users\Big-Mountain\Desktop\WebService\Service\Host\obj\x86\Debug\Host.Properties.Resources.resources
+C:\Users\Big-Mountain\Desktop\WebService\Service\Host\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Big-Mountain\Desktop\WebService\Service\Host\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Windy\Desktop\New folder\WebService\Service\Host\bin\Debug\Group1Project.exe.config
+C:\Users\Windy\Desktop\New folder\WebService\Service\Host\obj\x86\Debug\Group1Project.exe
+C:\Users\Windy\Desktop\New folder\WebService\Service\Host\obj\x86\Debug\Group1Project.pdb
+C:\Users\Windy\Desktop\New folder\WebService\Service\Host\bin\Debug\Group1Project.exe
+C:\Users\Windy\Desktop\New folder\WebService\Service\Host\bin\Debug\Group1Project.pdb
+C:\Users\Windy\Desktop\New folder\WebService\Service\Host\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Windy\Desktop\New folder\WebService\Service\Host\obj\x86\Debug\Host.frmMain.resources
+C:\Users\Windy\Desktop\New folder\WebService\Service\Host\obj\x86\Debug\Host.Properties.Resources.resources
+C:\Users\Windy\Desktop\New folder\WebService\Service\Host\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Windy\Desktop\New folder\WebService\Service\Host\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Big-Mountain\Desktop\WebService\Service\Host\bin\Debug\Host.exe.config
+C:\Users\Big-Mountain\Desktop\WebService\Service\Host\bin\Debug\Host.exe
+C:\Users\Big-Mountain\Desktop\WebService\Service\Host\bin\Debug\Host.pdb
+C:\Users\Big-Mountain\Desktop\WebService\Service\Host\obj\x86\Debug\Host.exe
+C:\Users\Big-Mountain\Desktop\WebService\Service\Host\obj\x86\Debug\Host.pdb
