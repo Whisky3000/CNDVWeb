@@ -28,3 +28,13 @@ C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\Client.
 C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
 C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Windy\Desktop\New folder\WebService\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Client\Client\bin\Debug\Client.exe.config
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Client\Client\obj\x86\Debug\Client.exe
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Client\Client\obj\x86\Debug\Client.pdb
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Client\Client\bin\Debug\Client.exe
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Client\Client\bin\Debug\Client.pdb
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Client\Client\obj\x86\Debug\Client.frmMain.resources
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog

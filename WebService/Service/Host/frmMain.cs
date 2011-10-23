@@ -31,9 +31,13 @@ namespace Host
                 case 0: // Create basicHttpBinding endpoint
                     host.AddServiceEndpoint(contractType, new BasicHttpBinding(), "http://localhost:8001/WebService");
                     break;
-                case 1:
+                case 1: //Create NetTcpBinding 
                     NetTcpBinding A = new NetTcpBinding(SecurityMode.Transport);
                     host.AddServiceEndpoint(contractType, new NetTcpBinding(), "net.tcp://localhost:9000/WebService");
+                    break;
+                case 2: //Create WsHttpBinding
+                    WSHttpBinding WHB = new WSHttpBinding();
+                    host.AddServiceEndpoint(contractType, new WSHttpBinding(), "http://localhost:8002/WebService");
                     break;
             }
 

@@ -33,3 +33,13 @@ C:\Users\Big-Mountain\Desktop\WebService\Service\Host\bin\Debug\Host.exe
 C:\Users\Big-Mountain\Desktop\WebService\Service\Host\bin\Debug\Host.pdb
 C:\Users\Big-Mountain\Desktop\WebService\Service\Host\obj\x86\Debug\Host.exe
 C:\Users\Big-Mountain\Desktop\WebService\Service\Host\obj\x86\Debug\Host.pdb
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Service\Host\bin\Debug\Host.exe.config
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Service\Host\obj\x86\Debug\Host.exe
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Service\Host\obj\x86\Debug\Host.pdb
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Service\Host\bin\Debug\Host.exe
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Service\Host\bin\Debug\Host.pdb
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Service\Host\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Service\Host\obj\x86\Debug\Host.frmMain.resources
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Service\Host\obj\x86\Debug\Host.Properties.Resources.resources
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Service\Host\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\New Folder\Study\Cong Nghe DV Web\Do an\WebService\Service\Host\obj\x86\Debug\GenerateResource.write.1.tlog

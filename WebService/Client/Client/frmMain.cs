@@ -18,7 +18,7 @@ namespace Client
             InitializeComponent();
         }
 
-        private void btn_Author_Click(object sender, EventArgs e)
+        private void btn_BasicHttp_Click(object sender, EventArgs e)
         {
             try
             {
@@ -27,14 +27,14 @@ namespace Client
 
                 IService proxy = ChannelFactory<IService>.CreateChannel(binding, address);
                 string grouphttp = proxy.GetAuthors();
-                txbHttp.Text = grouphttp;
+                txbBasicHttp.Text = grouphttp;
             }
             catch {
                 MessageBox.Show("Service no response", "Error", MessageBoxButtons.OK);
             }
         }
 
-        private void btn_getListNetTcp_Click(object sender, EventArgs e)
+        private void btn_NetTcp_Click(object sender, EventArgs e)
         {
             try
             {
@@ -43,16 +43,29 @@ namespace Client
 
                 IService proxy = ChannelFactory<IService>.CreateChannel(binding, address);
                 string groupnet = proxy.GetAuthors();
-                txbTcp.Text = groupnet;
+                txb_Tcp.Text = groupnet;
             }
             catch {
                 MessageBox.Show("Service no response", "Error", MessageBoxButtons.OK);
             }
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e)
+        private void btn_WsHttp_Click(object sender, EventArgs e)
         {
+            try
+            {
+                EndpointAddress adress = new EndpointAddress("http://localhost:8002/WebService");
+                WSHttpBinding binding = new WSHttpBinding();
 
+                IService proxy = ChannelFactory<IService>.CreateChannel(binding, adress);
+                string groupnet = proxy.GetAuthors();
+                txbWsHttp.Text = groupnet;
+            }
+            catch
+            {
+                MessageBox.Show("Service no respone", "Error", MessageBoxButtons.YesNo);
+            }
         }
+
     }
 }
