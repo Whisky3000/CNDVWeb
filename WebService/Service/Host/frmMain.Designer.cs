@@ -111,9 +111,7 @@
             this.CB1.Items.AddRange(new object[] {
             "BasicHttpBinding",
             "NetTCPBinding",
-            "WsHttpBinding",
-            "WsDualHttpBinding",
-            "WsFederationHttpBinding"});
+            "WsHttpBinding"});
             this.CB1.Location = new System.Drawing.Point(100, 98);
             this.CB1.Name = "CB1";
             this.CB1.Size = new System.Drawing.Size(125, 21);
