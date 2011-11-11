@@ -1,0 +1,9 @@
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\Host\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\Host\obj\Debug\Host.HostForm.resources
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\Host\obj\Debug\GenerateResource.read.1.tlog
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\Host\obj\Debug\GenerateResource.write.1.tlog
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\Host\bin\Debug\Host.dll.config
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\Host\bin\Debug\Host.dll
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\Host\bin\Debug\Host.pdb
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\Host\obj\Debug\Host.dll
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\Host\obj\Debug\Host.pdb

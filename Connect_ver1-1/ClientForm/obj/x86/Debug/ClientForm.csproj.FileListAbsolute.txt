@@ -1,0 +1,10 @@
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\ClientForm\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\ClientForm\obj\x86\Debug\ClientForm.Form1.resources
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\ClientForm\obj\x86\Debug\ClientForm.Properties.Resources.resources
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\ClientForm\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\ClientForm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\ClientForm\bin\Debug\ClientForm.exe
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\ClientForm\bin\Debug\ClientForm.pdb
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\ClientForm\obj\x86\Debug\ClientForm.exe
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\ClientForm\obj\x86\Debug\ClientForm.pdb
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\ClientForm\bin\Debug\ClientForm.exe.config

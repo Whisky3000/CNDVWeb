@@ -1,0 +1,12 @@
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\obj\x86\Debug\HostForm.Form1.resources
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\obj\x86\Debug\HostForm.Properties.Resources.resources
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\bin\Debug\HostForm.exe.config
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\bin\Debug\HostForm.exe
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\bin\Debug\HostForm.pdb
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\bin\Debug\Host.dll
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\bin\Debug\Host.pdb
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\obj\x86\Debug\HostForm.exe
+E:\New Folder\Study\Cong Nghe DV Web\Do an\Host\Connect\HostForm\obj\x86\Debug\HostForm.pdb
